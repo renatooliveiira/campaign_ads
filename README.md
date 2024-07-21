@@ -40,7 +40,7 @@ Glossário do conjunto de dados:
 
 ![img](imagens/01.png)
 
-- Do autor:
+Do autor:
 
 - **Grupo Etário 30-34 anos:** Tanto as conversões totais quanto as aprovadas apresentam uma forte correlação positiva com o grupo etário de 30-34 anos. Este grupo demonstrou uma tendência acentuada a solicitar informações e efetuar compras, em comparação com outros grupos etários.
 
