@@ -275,13 +275,12 @@ Do autor:
 
 ---
 
-**Gênero**
+**Interesses**
 
-- As mulheres tiveram 54% de todas as impressões, enquanto os homens tiveram 46%.
-- As mulheres apresentaram uma CTR mais alta que os homens por cerca de 20%, enquanto os homens quase dobraram a taxa de conversão das mulheres.
-- O custo de aquisição de clientes feminino foi cerca de $30 mais alto do que o masculino.
-- Tanto as impressões quanto a CTR em campanhas são semelhantes aos equivalentes não segmentados por campanha.
-- As taxas de conversão e o CAC são semelhantes para as Campanhas A e C; no entanto, para a Campanha B, as taxas de conversão masculinas são 5 vezes maiores do que as femininas em comparação com os equivalentes não segmentados por campanha.
+- Os interesses 31 e 36 têm um CAC extremamente baixo em comparação com outros.
+- Os interesses 101, 104 e 112 têm o maior impacto nas conversões totais, embora o gasto nessas categorias de interesse seja muito menor do que em outras.
+- Os interesses 31 e 102, combinados com a faixa etária de 30-34, têm um CAC de aproximadamente 4,75, quase metade do próximo segmento de interesse e faixa etária mais baixo.
+- O interesse 101 tem o menor CAC ao direcionar os homens, com aproximadamente 5,10, quase 1/3 do próximo CAC mais alto para o segmento de interesse e gênero.
 
 ## Insights de Negócios
 
