@@ -12,10 +12,9 @@ O projeto foca na análise de campanhas de anúncios no Facebook para determinar
 
 Conjunto de dados: [disponível no Kaggle](https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking)
 
-Os dados utilizados neste projeto provêm de uma campanha publicitária nas redes sociais de uma organização anônima. O dataset conversion_data.csv contém 1143 observações em 11 variáveis. Seguem-se as descrições das variáveis.
-
 ![img](imagens/cover.jpg)
 
+Os dados utilizados neste projeto provêm de uma campanha publicitária nas redes sociais de uma organização anônima. O dataset conversion_data.csv contém 1143 observações em 11 variáveis. Seguem-se as descrições das variáveis.
 
 Glossário do conjunto de dados:
 
