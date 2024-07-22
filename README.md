@@ -6,13 +6,13 @@
 ![Static Badge](https://img.shields.io/badge/matplotlib-%23135F9B?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/seaborn-%23444876?style=for-the-badge)
 
+![img](imagens/cover.jpg)
+
 O projeto foca na análise de campanhas de anúncios no Facebook para determinar os melhores segmentos de clientes. Nesta análise foi explorado dados demográficos, comportamentais e de engajamento para identificar padrões e insights que possam orientar a otimização das campanhas. Com base nessa análise, irei sugerir ações estratégicas para aprimorar a segmentação e o direcionamento dos anúncios, visando resultados mais eficientes e eficazes.
 
 ## Descrição do Dataset:
 
 Conjunto de dados: [disponível no Kaggle](https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking)
-
-![img](imagens/cover.jpg)
 
 Os dados utilizados neste projeto provêm de uma campanha publicitária nas redes sociais de uma organização anônima. O dataset conversion_data.csv contém 1143 observações em 11 variáveis. Seguem-se as descrições das variáveis.
 
